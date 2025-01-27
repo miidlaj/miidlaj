@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Muhammed+Midlaj)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=miidlaj)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miidlaj)](https://git.io/streak-stats)
 
 ###
 
